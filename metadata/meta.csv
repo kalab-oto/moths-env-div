@@ -1,0 +1,32 @@
+code,description
+v_min,minimum vegetation height
+v_max,maximum vegetation height
+v_mean,mean vegetation height
+v_sparse,"percentage of sparse vegetation, scale 1 (min) to 3 (max)"
+v_n_avail,"nectar amount, scale 1 (min) to 10 (max)"
+v_n_div,number of flowering dicot species
+m_no,percentage of unmanaged area
+m_mow,percentage of mown area 
+m_sheep,percentage of area grazed by sheep
+m_cattle,percentage of area grazed by cattle
+m_horse,percentage of area grazed by horse
+t_elev_mean,mean elevation (m)
+t_elev_sd,standard deviation of elevation
+t_elev_p01,1st percentile of elevation
+t_elev_p99,99th percentile of elevation
+t_slope_mean,mean slope (degrees)
+t_slope_sd,standard deviation of slope
+t_slope_p01,1st percentile of slope
+t_slope_p99,99th percentile of slope
+t_vrml_mean,"mean VRML, modified version of Vector Ruggedness Measure (Sappington et al., 2007) developed by Dilts et al. (2023) (unitless)"
+t_vrml_sd,"standard deviation of VRML, modified version of Vector Ruggedness Measure (Sappington et al., 2007) developed by Dilts et al. (2023)"
+t_vrml_p01,"1st percentile of VRML, modified version of Vector Ruggedness Measure (Sappington et al., 2007) developed by Dilts et al. (2023)"
+t_vrml_p99,"99th percentile of VRML, modified version of Vector Ruggedness Measure (Sappington et al., 2007) developed by Dilts et al. (2023)"
+t_hli_mean,"mean Heat Load Index, 0 (coolest) - 1 (hottest)"
+t_hli_sd,standard deviation of Heat Load Index
+t_hli_p01,1st percentile of Heat Load Index
+t_hli_p99,99th percentile of Heat Load Index
+t_aspect_*,"percentage of slope direction in 9 categories (""flat"",""N"",""NE"",""E"",""SE"",""S"",""SW"",""W"",""NW"")"
+es_*,proportion of specific ecosystems
+es_np,number of ecosystem patches
+es_lpi,largest patch index - area of the largest ecosystem patch

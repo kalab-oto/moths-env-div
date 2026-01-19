@@ -1,0 +1,41 @@
+code,cat,group,group_cs,cat_cs
+es_u_continuous,Continuous urban fabric,Urban areas,Urbánní systémy,Souvislá městská zástavba
+es_u_discontinuous,Discontinuous urban fabric,Urban areas,Urbánní systémy,Nesouvislá městská zástavba
+es_u_industrial,Industrial and commercial units,Urban areas,Urbánní systémy,Průmyslové a obchodní jednotky
+es_u_transport,Transport units,Urban areas,Urbánní systémy,Dopravní síť
+es_u_dump,Dump and construction units,Urban areas,Urbánní systémy,Skládky a staveniště
+es_u_green,"Artificial urban green areas – parks, gardens, cemeteries",Urban areas,Urbánní systémy,"Městské zelené plochy, okrasná zahrada, park, hřbitov"
+es_u_scattered_green,Scattered green,Urban areas,Urbánní systémy,Rozptýlená zeleň
+es_u_recreation,Artificial urban green areas – recreation and sport areas,Urban areas,Urbánní systémy,Sportovní a rekreační plochy
+es_a_arable,Arable land,Agricultural land,Zemědělské ekosystémy,Orná půda
+es_a_orchards,Orchards and gardens,Agricultural land,Zemědělské ekosystémy,"Ovocný sad, zahrada"
+es_a_hops,Hop fields,Agricultural land,Zemědělské ekosystémy,Chmelnice
+es_a_vineyards,Vineyards,Agricultural land,Zemědělské ekosystémy,Vinice
+es_a_grassland_int,Intensive grasslands,Agricultural land,Zemědělské ekosystémy,Hospodářské louky
+es_g_alluvial,Alluvial meadows,Grasslands,Travinné ekosystémy,Aluviální a vlhké louky
+es_g_dry,Dry grasslands,Grasslands,Travinné ekosystémy,Suché trávníky
+es_g_mesic,Mesic meadows,Grasslands,Travinné ekosystémy,Mezofilní louky
+es_g_alpine,Alpine grasslands,Grasslands,Travinné ekosystémy,Alpínské louky
+es_g_heats,Heaths,Grasslands,Travinné ekosystémy,Vřesoviště
+es_f_coniferous_int,Intensive coniferous forests,Forests,Lesní ekosystémy,Hospodářské lesy jehličnaté
+es_f_broadleaved_int,Intensive broad-leaved forests,Forests,Lesní ekosystémy,Hospodářské lesy listnaté
+es_f_mixed_int,Intensive mixed forests,Forests,Lesní ekosystémy,Hospodářské lesy smíšené
+es_f_alluvial,Alluvial forests,Forests,Lesní ekosystémy,Lužní a mokřadní lesy
+es_f_oak,Oak and oak-hornbeam forests,Forests,Lesní ekosystémy,Doubravy a dubohabřiny
+es_f_ravine,Ravine forests,Forests,Lesní ekosystémy,Suťové lesy
+es_f_beech,Beech forests,Forests,Lesní ekosystémy,Bučiny
+es_f_pine_dry,Dry pine forests,Forests,Lesní ekosystémy,Suché bory
+es_f_spurce,Spruce forests,Forests,Lesní ekosystémy,Smrčiny
+es_f_bog,Bog forests,Forests,Lesní ekosystémy,Rašelinné lesy
+es_f_mugo_nat,Natural Pinus mugo shrub,Forests,Lesní ekosystémy,Přírodní kosodřevina
+es_f_shrub_nat,Natural shrub vegetation,Forests,Lesní ekosystémy,Přírodní křoviny
+es_f_mugo_intr,Introduced Pinus mugo scrub,Forests,Lesní ekosystémy,Nepůvodní kosodřevina
+es_f_shrub_intr,Introduced shrub vegetation,Forests,Lesní ekosystémy,Nepůvodní křoviny
+es_we_vegetation,Wetlands and littoral vegetation,Wetlands,Mokřadní ekosystémy,Mokřady a pobřežní vegetace
+es_we_peat,Peatbogs and springs,Wetlands,Mokřadní ekosystémy,Rašeliniště a prameniště
+es_we_swamp,Swamps,Wetlands,Mokřadní ekosystémy,"Bažina, močál"
+es_wa_macrophyte,Macrophyte vegetation of water bodies,Aquatic ecosystems,Vodní ekosystémy,Makrofytní vegetace stojatých vod
+es_wa_bodies,Human influenced water bodies,Aquatic ecosystems,Vodní ekosystémy,Rybníky a nádrže
+es_wa_courses,Water courses,Aquatic ecosystems,Vodní ekosystémy,Vodní toky
+es_r_artifical,Artificial rocks,Bare rock,Území bez vegetace,"Skály, lomy (umělé)"
+es_r_natural,Natural rocks,Bare rock,Území bez vegetace,"Skály, sutě"

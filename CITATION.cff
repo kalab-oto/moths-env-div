@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the article from preferred-citation."
+preferred-citation:
+  authors:
+    - family-names: Čížek
+      given-names: Oldřich
+      affiliation: Hutur NGO
+      orcid: 
+    - family-names: Marhoul
+      given-names: Pavel
+      affiliation: Beleco NGO
+      orcid: 
+    - family-names: Kadlec
+      given-names: Tomáš
+      affiliation: Department of Ecology, Faculty of Environmental Sciences, Czech University of Life Sciences Prague
+      orcid: 0000-0002-6371-2617
+    - family-names: Kaláb
+      given-names: Oto
+      affiliation: Department of Physical Geography and Geoecology, Faculty of Science, University of Ostrava
+      orcid: 0000-0003-3485-9377
+    - family-names: Jor
+      given-names: Tomáš
+      affiliation: 
+          - Department of Ecology, Faculty of Environmental Sciences, Czech University of Life Sciences Prague
+          - Department of Zoology, Faculty of Science, Charles University
+      orcid: 0009-0003-6136-2419
+    - family-names: Hlaváček
+      given-names: Antonín
+      affiliation: 
+          - Department of Ecology, Faculty of Environmental Sciences, Czech University of Life Sciences Prague
+          - Department of Zoology, Faculty of Science, Charles University
+      orcid: 0000-0001-9532-7396
+  title: "Full-elevational gradient dataset on moth diversity and abundance in a temperate mountain range"
+  type: article
+  database: DOI.org (Crossref)
+  journal: 
+  languages: en
+  pages: 
+  volume: 
+  url: 
+  date-published: in review
+  identifiers: 
+    - type: doi
+      value: 
+type: dataset
