@@ -33,13 +33,13 @@ preferred-citation:
   title: "Full-elevational gradient dataset on moth diversity and abundance in a temperate mountain range"
   type: article
   database: DOI.org (Crossref)
-  journal: 
+  journal: Sci Data
   languages: en
   pages: 
   volume: 
-  url: 
+  url: https://www.nature.com/articles/s41597-026-06837-9
   date-published: in review
   identifiers: 
     - type: doi
-      value: 
+      value: 10.1038/s41597-026-06837-9
 type: dataset

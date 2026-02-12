@@ -2,9 +2,9 @@
 
 This repository contains scripts for preparing environmental data to complement in-situ data from sampling sites for the study:  
 
-Čížek, O., Marhoul, P., Kadlec, T., Kaláb, O. & Hlaváček, A.: "Full-elevational gradient dataset on moth diversity and abundance in a temperate mountain range" *in review*
+Čížek, O., Marhoul, P., Kadlec, T. et al. Full-elevational gradient dataset on moth diversity and abundance in a temperate mountain range. Sci Data (2026). [https://doi.org/10.1038/s41597-026-06837-9](https://doi.org/10.1038/s41597-026-06837-9)
 
-The materials accompanying the paper were reorganised and edited by AH prior to submission and are available on Figshare https://doi.org/10.6084/m9.figshare.30290536 (data and metadata) and at https://github.com/antoninhlavacek/Moth_Krkonose (scripts).
+The materials accompanying the paper were reorganised and edited by AH prior to submission and are available on Figshare [https://doi.org/10.6084/m9.figshare.30290536](https://doi.org/10.6084/m9.figshare.30290536) (data and metadata) and at [https://github.com/antoninhlavacek/Moth_Krkonose](https://github.com/antoninhlavacek/Moth_Krkonose) (scripts).
 
 This repository documents the original analysis workflow and input data prior to that reorganisation.
 
